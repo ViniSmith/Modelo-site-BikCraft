@@ -221,14 +221,16 @@ img {
     position: absolute;
     top:209px;
     right:162px;
+    z-index: -1;
 }
+
 
 .qualidade img {
     margin: 0 auto;
 }
 
 .qualidade_lista {
-    padding-top: 40px;
+    padding-top: 20px;
 }
 
 .qualidade_lista li {
