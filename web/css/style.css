@@ -55,6 +55,7 @@ img {
     margin: 8px auto;
 }
 
+
 /*Header */
 .header {
     position:fixed;
@@ -133,6 +134,16 @@ img {
     font-size: 14px;
     letter-spacing: .1em;
 }
+
+
+/*Introducao Interna */
+
+.introducao-interna {
+    width: 100%;
+    margin-top: 92px;
+    
+}
+
 
 /*Produtos */
 
